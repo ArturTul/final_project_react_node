@@ -1,4 +1,4 @@
-his assignment application (app) was made using react.js and node.js and several npm's from npmjs.com;
+This assignment application (app) was made using react.js and node.js and several npm's from npmjs.com;
 
 To start this app, open 2 separate terminals (one will be for app front-end, another for app back-end): front-end: using terminal, navigate to front directory, using "cd front". Then type npm start; back-end: using terminal, navigate to back directory, using "cd back". Then type "node index", or, if you are using nodemon npm, type "npx nodemon";
 This app features these npm's: "nodemon" - for constant tracking of changes in code and "react-like" server establishment; "cors" - for providing a Connect/Express middleware; "email-validator" - for validating emails of newly created users; "express" - fast web framework for node; "mongoose" - MongoDB object modeling tool designed to work in an asynchronous environment;
